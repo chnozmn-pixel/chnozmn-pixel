@@ -20,3 +20,22 @@ should never show a number it did not actually measure.
 ### Stack
 
 C# / .NET · PowerShell · Python · JavaScript
+
+---
+
+## Türkçe
+
+Tek bir işi yapan, yoluna çıkmayan küçük Windows araçları yazıyorum.
+Çoğu C# masaüstü uygulaması; betiğin programdan daha uygun düştüğü yerlerde
+PowerShell ve Python.
+
+İki şeye dikkat ediyorum: bir araç kurulum çilesi olmadan çalışmalı, ve
+ölçmediği bir sayıyı ekranda göstermemeli.
+
+| | |
+|---|---|
+| **[ScheduleOneTR](https://github.com/chnozmn-pixel/ScheduleOneTR)** | Schedule I için Türkçe yama. ~9.700 satır çeviri, PowerShell'e tek satır yapıştırarak kuruluyor — yükleyiciyi kendi indiriyor, kendini derliyor, dosyaları yerine koyuyor. Oyunun verisine hiç dokunmuyor. |
+| **[AudioHop](https://github.com/chnozmn-pixel/AudioHop)** | Windows ses aygıtını tepsiden ya da ekrandaki seçiciden değiştirir. |
+| **[Cyfan](https://github.com/chnozmn-pixel/Cyfan)** | Video birleştirme, bölme ve dönüştürme. Windows için küçük bir ffmpeg arayüzü. |
+| **[dns-boat](https://github.com/chnozmn-pixel/dns-boat)** | Windows için otomatik DNS değiştirme, isteğe bağlı DPI atlatma. Tepsi uygulaması. |
+| **[Wirecove](https://github.com/chnozmn-pixel/Wirecove)** | Bilgisayardaki programların gerçekte ne gönderip ne aldığını gösterir. Ekrandaki her şey makinenin kendisinden okunuyor. *Geliştirme aşamasında.* |
